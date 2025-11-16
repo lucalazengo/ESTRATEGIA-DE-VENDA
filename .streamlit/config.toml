@@ -1,0 +1,15 @@
+# Este arquivo define o tema escuro, as cores de fundo,
+# a cor principal (teal) e remove o menu "Deploy".
+
+[theme]
+base="dark"
+primaryColor="#26A69A"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+font="sans serif"
+
+[global]
+# Desabilita o menu de hambúrguer e o botão "Deploy"
+# para uma interface mais limpa, como na imagem
+showMarkers = false
