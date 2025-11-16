@@ -5,7 +5,7 @@ from datetime import datetime
 
 # --- Configuração da Página ---
 st.set_page_config(
-    page_title="Estratégia de Vendas",
+    page_title="Estratégia de Vendas Clientes EIB",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="expanded"
