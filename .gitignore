@@ -1,2 +1,8 @@
 .venv/
 *.csv
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
